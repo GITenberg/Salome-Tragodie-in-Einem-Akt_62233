@@ -1,5 +1,5 @@
 _repo: Salome-Tragodie-in-Einem-Akt_62233
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Beardsley, Aubrey
@@ -18,6 +18,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Hedwig_Lachmann
     - https://de.wikipedia.org/wiki/Hedwig_Lachmann
+covers:
+- cover_type: archival
+  image_path: 62233-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -30,6 +33,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62233#Salome-Tragodie-in-Einem-Akt
 gutenberg_issued: '2020-05-26'
 gutenberg_type: Text
 identifiers:
